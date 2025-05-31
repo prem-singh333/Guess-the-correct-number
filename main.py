@@ -19,5 +19,3 @@ while(player != computer):
         print("Higher number, please try again")
     elif(player < computer):
         print("Lower number, please try again")
-
-    
